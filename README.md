@@ -1,7 +1,7 @@
 # Flask JWT Extended Demo
 Sample project to demonstrate jwt based session management in python using flask jwt extended package.
 
-![screenshot](screenshots/Screenshot1.png)
+![screenshot](demo/demo.gif)
 
 ## Quickstart
 
